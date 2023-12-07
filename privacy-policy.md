@@ -1,5 +1,3 @@
-# Privacy Policy
-
 # Overview:
 
 1. Person responsible for data protection
