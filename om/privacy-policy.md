@@ -12,11 +12,11 @@
 **Device Information**
 - Operating system version
 - App crashes and performance data
+- Approximate location as detected by Firebase (Google)
 
 We do **not** collect:
 - Your name or email address
 - Personal photos or files
-- Location data
 - Contact information
 
 ## How do we use this information?
