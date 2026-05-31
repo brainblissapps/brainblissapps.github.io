@@ -1,53 +1,83 @@
 # Privacy Policy
 
-**Last updated: July 2025**
+**Last updated: May 31, 2026**
+
+Your privacy is important to us. This policy explains what data we collect, how we use it, and your choices.
+
+See also our [Terms of Use](terms-of-use.html).
 
 ## What information do we collect?
 
-**App Usage Data (Anonymous)**
+### App usage and diagnostics
 - App settings and preferences
-- Time spent using the app
 - Features used within the app
+- Time spent in app features
+- Crash and performance data
+- Technical logs needed to diagnose issues
 
-**Device Information**
+### Device and technical information
+- App version
 - Operating system version
-- App crashes and performance data
+- Device model/manufacturer
+- Language/locale and timezone
+- Country code (coarse)
+- Network status and technical request metadata
 
-We do **not** collect:
-- Your name or email address
-- Personal photos or files
-- Location data
-- Contact information
+### Community Shop / user-generated content (if you use these features)
+- Creations you choose to upload/share (for example, accessory images)
+- Related creation metadata (such as dimensions/placement fields)
+- Community profile/display name
+- Interactions such as saves, votes, and reports/flags
+- Moderation state and moderation messages
+
+### Notifications
+- Push notification token (for delivery and notification settings)
+
+### Feedback (if you submit it)
+- Feedback text
+- Optional email address you provide in feedback
+
+### Purchases, subscriptions, and ads
+- Purchase/subscription status and related transaction identifiers needed to provide entitlements
+- Advertising-related identifiers/signals handled by ad and consent SDKs, subject to platform controls
 
 ## How do we use this information?
 
-- To improve app performance and fix bugs
-- To understand which features are most popular
-- To make the app work better for everyone
+- To provide core app features
+- To provide Community Shop features
+- To keep the app secure and prevent abuse/fraud
+- To fix bugs and improve app performance
+- To process purchases/subscriptions and restore access
+- To send notifications if enabled by you
 
 ## Do we share your information?
 
-**No.** We do not sell, trade, or share your personal information with third parties.
+We do NOT sell personal information.
 
-We use Firebase (by Google) for app analytics and crash reporting. This data is anonymous and helps us improve the app.
+We share data with service providers only as needed to operate the app (for example: cloud/backend infrastructure, analytics, crash reporting, messaging, purchase infrastructure, and ad/consent providers).
 
-## App Permissions
+## App permissions
 
-Our app requests these permissions:
-- **Notifications**: To send you reminders if you choose
-- **Display over other apps**: For certain app features
-- **Battery optimization**: To ensure the app works smoothly
+Our app may request permissions such as:
+- **Internet / network access**: Needed for online features and community services
+- **Notifications**: To send reminders/updates if enabled
+- **Display over other apps**: Needed for overlay features
+- **Billing / ad identifiers (where applicable)**: Needed for purchases and ad delivery/measurement
 
-## Your Rights
+## Data retention
 
-- You can contact us anytime with questions about your privacy
-- You can request deletion of any data we have
-- You can stop using the app at any time
+We retain data only as long as needed for app functionality, security, moderation, legal obligations, and legitimate business operations.
 
-## Contact Us
+## Your rights and choices
 
-Questions about this privacy policy? Email us at: brainblissapps@gmail.com
+You can:
+- Stop using the app at any time
+- Request deletion of data we control
+- Manage notifications from app/device settings
+- Remove shared creations where in-app tools are available
 
-## Changes to this Policy
+Contact us for privacy/deletion requests: **brainblissapps@gmail.com**
 
-We may update this privacy policy from time to time. We'll notify you of any changes by posting the new policy in the app.
+## Changes to this policy
+
+We may update this privacy policy from time to time. We will post the updated version here and update the “Last updated” date.
