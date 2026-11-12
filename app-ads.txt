@@ -8,6 +8,8 @@ facebook.com, 1450414767291200, DIRECT, c3e20eee3f780d68
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 # Magnite verycute
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+# InMobi verycute
+inmobi.com, e1c7aefbf7b64b8a855904028b597a01, DIRECT, 83e75a7ae333ca9d
 
 # Unity ads
 adagio.io, 1522, RESELLER
