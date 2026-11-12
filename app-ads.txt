@@ -10,6 +10,9 @@ pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 # InMobi verycute
 inmobi.com, e1c7aefbf7b64b8a855904028b597a01, DIRECT, 83e75a7ae333ca9d
+# Equativ verycute (Google Open Bidding)
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 
 # Unity ads
 adagio.io, 1522, RESELLER
