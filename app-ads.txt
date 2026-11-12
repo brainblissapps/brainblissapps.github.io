@@ -6,6 +6,8 @@ google.com, pub-8646168645070818, DIRECT, f08c47fec0942fa0
 facebook.com, 1450414767291200, DIRECT, c3e20eee3f780d68
 # PubMatic verycute
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+# Magnite verycute
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 
 # Unity ads
 adagio.io, 1522, RESELLER
