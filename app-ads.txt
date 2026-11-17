@@ -13,6 +13,8 @@ inmobi.com, e1c7aefbf7b64b8a855904028b597a01, DIRECT, 83e75a7ae333ca9d
 # Equativ verycute (Google Open Bidding)
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
 
 # Unity ads
 adagio.io, 1522, RESELLER
